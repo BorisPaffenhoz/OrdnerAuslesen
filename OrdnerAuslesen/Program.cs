@@ -1,5 +1,7 @@
 ﻿//  #   Funktions Beschreibung der Konsolen Anwendung   #
 //  #   Das Programm "OrdnerAuslesen" ließt die erste Ordner Ebene unter dem angegeben Verzeichnis (V:\Blu-ray-Filme) aus.    #
+//  #   Dokumentation   #
+//  #   Erfolgreicher durchlauf des Programms   #
 
 using System;
 using System.IO;
